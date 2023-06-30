@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\bin\Debug\net7.0\Zadanie_3.2.exe
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\bin\Debug\net7.0\Zadanie_3.2.deps.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\bin\Debug\net7.0\Zadanie_3.2.runtimeconfig.json
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\bin\Debug\net7.0\Zadanie_3.2.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\bin\Debug\net7.0\Zadanie_3.2.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\refint\Zadanie_3.2.dll
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.pdb
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\Zadanie_3.2.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documents\Podstawy programowania\24.06.2023\Zadanie_3.2\Zadanie_3.2\obj\Debug\net7.0\ref\Zadanie_3.2.dll
